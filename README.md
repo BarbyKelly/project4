@@ -2,12 +2,13 @@
 
 ![]() screenshot from am I responsive
 
+This project is created as part of Code Institute's Software Development course, and has no commercial value. Aim of this project is to have a website where various book reviews are shared, users who login can comment on the reviews/books/other comments. Website's focus is on sharing books that are related to energy work, healing stories. Hope is to see people sharing their heureka moments, which books have supported them the most, which stories increased light in their lives, which writings healed part of their heart and so on.
 
 Deployed site: [](heroku one!!!)
 
 # Content
 - [UX Design](#ux-design)
-- [User Stories](#user-stories
+- [User Stories](#user-stories)
 - [Features](#features)
 - [Structure](#structure)
 - [Testing & Validation](#testing--validation)
